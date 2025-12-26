@@ -1,0 +1,40 @@
+.appointment-item {
+    border: 1px solid #b5b7c4;
+    border-radius: 8px;
+    padding: 12px 14px;
+    width: 100%;
+    max-width: 260px;
+  }
+  
+  .title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .appointment-title {
+    color: #171f46;
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .star-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .star-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .appointment-date {
+    color: #b5b7c4;
+    font-family: 'Roboto';
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  
