@@ -1,4 +1,3 @@
-<br/>
 PROJECT URL : https://myappointment07.ccbp.tech/
 <br/>
 
@@ -34,17 +33,7 @@ PROJECT URL : https://myappointment07.ccbp.tech/
 
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
 
-Use these files to complete the implementation:
-
-- `src/components/Appointments/index.jsx`
-- `src/components/Appointments/index.css`
-- `src/components/AppointmentItem/index.jsx`
-- `src/components/AppointmentItem/index.css`
-</details>
 
 
 
